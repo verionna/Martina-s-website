@@ -11,8 +11,8 @@ svg,
 iframe,
 video,
 audio {
-  max-width: 100%;
   border: 0;
+  max-width: 100%;
 }
 
 html,
@@ -22,8 +22,8 @@ body {
 }
 
 body {
-	font-size: 100%;
-	 background-color: var(--tertiary);
+   background-color: var(--tertiary);
+  font-size: 100%;
 }
 
 h1,
@@ -32,8 +32,8 @@ h3,
 h4,
 h5,
 h6 {
-  margin-top: 0;
   margin-bottom: 0;
+  margin-top: 0;
 }
 
 p {

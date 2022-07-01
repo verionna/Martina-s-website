@@ -1,10 +1,10 @@
 .header {
-	padding-top: var(--spacer-m);
-	padding-bottom: var(--spacer-m);
-	position: fixed;
-	top: 0;
 	left: 0;
+	padding-bottom: var(--spacer-m);
+	padding-top: var(--spacer-m);
+	position: fixed;
 	right: 0;
+	top: 0;
 	z-index: var(--z-index-header);
 }
 
@@ -29,18 +29,18 @@ img.header-logo-light {
 }
 
 .header-logo {
-	width: 100px;
 	position: relative;
+	width: 100px;
 	z-index: var(--z-index-logo);
 }
 
 .header-nav-icon {
+	background-color: transparent;
+	border: 0;
 	margin-left: auto;
+	padding: 0;
 	position: relative;
 	z-index: var(--z-index-navicon);
-	border: 0;
-	background-color: transparent;
-	padding: 0;
 }
 
 .hamburger-inner, 

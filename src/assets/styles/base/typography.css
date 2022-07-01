@@ -1,4 +1,4 @@
-/* General tipografía */
+/* General fonts */
 
 body {
   font-family: var(--font-1);
@@ -9,7 +9,7 @@ p {
   margin-bottom: 1em;
 }
 
-/* Escala tipográfica */
+/* Type Scale */
 
 .text-jumbo {
   font-size: var(--text-jumbo);
@@ -48,7 +48,7 @@ p {
   text-transform: uppercase;
 }
 
-/*Auxiliaries*/
+/*Auxiliary*/
 
 .font-1 {
   font-family: var(--font-1);

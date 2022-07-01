@@ -1,7 +1,7 @@
 {
-  "name": "domestika11ty",
+  "name": "martina's website",
   "version": "1.0.0",
-  "description": "Un starter para 11ty basado en Deventy",
+  "description": "freelancer website",
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf dist",
