@@ -1,0 +1,6 @@
+/* Z-index */
+html {
+	--z-index-header: 1;
+	--z-index-logo: 1;
+	--z-index-navicon: 1;
+}

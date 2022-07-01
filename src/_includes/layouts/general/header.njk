@@ -1,0 +1,30 @@
+<div class="header">
+
+  <div class="container">
+
+<a href="/" class="header-logo">
+<img src="/assets/images/logo.svg" class="header-logo" alt="MV">
+<img src="/assets/images/logo-light.svg" class="header-logo-light" alt="MV">
+</a>
+
+<button class=" hamburguer hamburger--elastic-r header-nav-icon" type="button">
+ <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+<!--<img src="/assets/images/nav.svg" alt="MV">-->
+</button>
+
+    {% set navPages = collections.all | eleventyNavigation %}
+    <div class="nav">
+      {%- for element in navPages %}
+        <a href="{{ element.url | url }}"
+          class="text-headline" 
+        >
+          {{ element.title }}
+        </a>
+      {%- endfor %}
+    </div>
+
+  </div>
+
+</div>

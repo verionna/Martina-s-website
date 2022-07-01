@@ -1,0 +1,60 @@
+/* General tipografía */
+
+body {
+  font-family: var(--font-1);
+  line-height: 1.5;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+/* Escala tipográfica */
+
+.text-jumbo {
+  font-size: var(--text-jumbo);
+}
+
+.text-display {
+  font-size: var(--text-display);
+}
+
+.text-headline {
+  font-size: var(--text-headline);
+}
+
+.text-title {
+  font-size: var(--text-title);
+}
+
+.text-subheader {
+  font-size: var(--text-subheader);
+}
+
+.text-body {
+  font-size: var(--text-body);
+}
+
+.text-note {
+  font-size: var(--text-note);
+}
+
+.text-caption {
+  font-size: var(--text-caption);
+}
+
+.text-small {
+  font-size: var(--text-small);
+  text-transform: uppercase;
+}
+
+/*Auxiliaries*/
+
+.font-1 {
+  font-family: var(--font-1);
+}
+
+.font-2 {
+  font-family: var(--font-2);
+  font-weight: normal;
+}

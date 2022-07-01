@@ -1,0 +1,20 @@
+[ {  "imagen": "pho-2.jpg",
+    "position": "complete"
+  },
+  {
+    "imagen": "pho-3.jpg",
+    "position": "right"
+  },
+  {
+    "imagen": "pho-4.jpg",
+    "position": "complete"
+  },
+  {
+    "imagen": "pho-5.jpg",
+    "position": "left"
+  },
+   {
+    "imagen": "pho-6.jpg",
+    "position": "complete"
+  }
+]

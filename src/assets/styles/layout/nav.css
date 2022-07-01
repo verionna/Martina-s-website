@@ -1,0 +1,30 @@
+.nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: var(--grays-tertiary);
+	color: var(--grays-primary);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	display: none;
+}
+
+.nav-active .nav {
+	display: flex;
+
+} 
+
+.nav a {
+  color: inherit;
+  text-decoration: none;
+  font-family: var(--font-2);
+  transition: color 0.3s;
+}
+
+.nav a:hover {
+  color: var(--accent-tertiary);
+}

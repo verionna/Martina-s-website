@@ -1,0 +1,34 @@
+html {
+
+  /*Font families*/
+  --font-1: 'Cinzel', serif;
+  --font-2: 'Cinzel Decorative', cursive;
+  --font-3: 'Quicksand', sans-serif;
+
+  /* Escala aplicada */
+  --text-caption: 14px;
+  --text-note: 16px;
+  --text-base: 20px;
+  --text-subheader: 24px;
+  --text-title: 48px;
+  --text-headline: 50px;/*72px*/
+  --text-display: 96px;
+  --text-jumbo: 144px;
+
+}
+  @media screen and (max-width: 600px) {
+    html {
+
+          /* Variables tipográficas */
+      --text-caption: 12px;
+      --text-note: 14px;
+      --text-base: 16px;
+      --text-subheader: 20px;
+      --text-title: 24px;
+      --text-headline: 23px;/*36px*/
+      --text-display: 48px;
+      --text-jumbo: 60px;
+      
+        }
+      }
+
