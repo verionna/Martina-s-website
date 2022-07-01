@@ -2,3 +2,36 @@
 	display: block;
 	width: 100%;
 }
+
+.project-ilu {
+	display: block;
+	overflow: hidden;
+	position: relative;
+}
+
+.project-ilu-overlay {
+	right: 0;
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: var(--primary-one);
+	background-color: rgba(45, 49, 67, 0.6);
+	transition: opacity 0.3s;
+}
+
+.project-ilu:hover .project-ilu-overlay {
+	opacity: 1;
+}
+
+.project-ilu img {
+	transition: transform 0.3s;
+}
+
+.projec-ilu:hover img {
+	transform: scale(1.05);
+}
