@@ -2,7 +2,7 @@
 layout: layouts/full.njk
 title: Inicio
 ---
-<div class="home-slide">
+{#<div class="home-slide">
 	<h1 class="font-1 home-title">Martina es...</h1>
 </div>
 
@@ -19,4 +19,9 @@ title: Inicio
 <div class="home-slide container grid home-content">
 	<img src="/assets/images/home-3.jpg" alt="">
 	<a href="/contact/" class="font-3 home-subheader">Freelancer</a>
+</div> #}
+<div class="container grid home-content">
+{% for element in home %}
+    {% include 'components/project.njk' %}
+  {% endfor %}
 </div>
