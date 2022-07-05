@@ -23,6 +23,8 @@
 	right: 0;
 	top: 0;
 	transition: opacity 0.3s;
+  /* padding: 20px; */
+  padding: 20px 0 20px 0;
 }
 
 .project-ilu:hover .project-ilu-overlay {
