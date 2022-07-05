@@ -5,29 +5,33 @@
 	top: 0;
 }
 
+.ilustration-text .text-headline {
+  line-height: 1;
+  margin-bottom: var(--spacer-m);
+}
 
 @media (max-width: 900px) {
 	.ilustration-text {
-	margin-top: var(--spacer-xl);
+	position: unset;
 	}
 }
 
 @media (max-width: 700px) {
 	.ilustration-text {
-	margin-top: var(--spacer-l);
+	padding-top: var(--spacer-xl);
 	}
-
 	.ilustration-text .text-headline {
 	margin-bottom: var(--spacer-s);
 	}
 }
-
-
 
 @media (max-width: 500px) {
 	.ilustration-text {
 		margin-top: 0;
 		order: -1;
 	}
+  .ilustraction-text .text-headline {
+    line-height: 1.5;
+  }
 }
 
