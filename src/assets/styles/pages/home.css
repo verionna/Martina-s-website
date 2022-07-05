@@ -42,3 +42,11 @@
 	color: var(--tertiary);
 
 }
+
+@media (max-width: 500px) {
+  .home-subheader {
+    right: 20px;
+    bottom: 0;
+    font-size: var(--text-display);
+  }
+}
