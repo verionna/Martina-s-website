@@ -1,36 +1,36 @@
 html {
 
-	 /*Major*/
-	 /*Primary colors*/
+   /*Major*/
+   /*Primary colors*/
 
-	--primary: #4338ca;
-	--secondary: #991b1b;
-	--tertiary: #dc2626;
-	--quaternary: #fbbf24;
+  --primary: #fcd34d;
+  --secondary: #fbbf24;
+  --tertiary: #991b1b;
+  --quaternary: #facc15;
 
-	/*Grays*/
-	/*Secondary colors*/
+  /*Grays*/
+  /*Secondary colors*/
 
-  	--grays-primary: #fff7ed;
-  	--grays-secondary: #ffedd5;
-  	--grays-tertiary: #fed7aa;
-  	--grays-quaternary: #fdba74;
+    --grays-primary: #d1d5db;
+    --grays-secondary: #9ca3af;
+    --grays-tertiary: #4b5563;
+    --grays-quaternary: #374151;
 
-  	/*Primary*/
-  	/*Tertiary colors*/
+    /*Primary*/
+    /*Tertiary colors*/
 
-  	--primary-one: #fb923c;
-  	--primary-two:#f97316;
-  	--primary-three:#ea580c;
-  	--primary-four:#c2410c;
+    --primary-one: #0891b2;
+    --primary-two:#0e7490;
+    --primary-three:#7dd3fc;
+    --primary-four:#38bdf8;
 
-  	/*Accent*/
-  	/*Quaternary colors*/
+    /*Accent*/
+    /*Quaternary colors*/
 
-  	--accent-primary: #9a3412;
-  	--accent-secondary: #7c2d12;
-  	--accent-tertiary: #92400e;
-  	--accent-quaternary: #78350f;
+    --accent-primary: #075985;
+    --accent-secondary: #0c4a6e;
+    --accent-tertiary: #1e40af;
+    --accent-quaternary: #1e3a8a;
 
     --link: var(--accent-primary);
     --link-hover: var(--primary-three);
