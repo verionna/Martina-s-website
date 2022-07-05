@@ -27,7 +27,7 @@
 }
 
 .contact-form input::placeholder {
-	color: var(--grays-secondary);
+	color: var(--primary-three);
 }
 
 .contact-form select {
@@ -48,6 +48,7 @@
 	background-repeat: no-repeat;
 	background-position: center right;
 	background-size: 0.75em auto;
+	border-radius: 0;
 }
 
 .contact-submit {
@@ -58,7 +59,7 @@
 	letter-spacing: 0.5em;
 	line-height: 1;
 	padding: 0;
-	color: var(--accent-primary);
+	color: var(--tertiary);
 	background-color: transparent;
 	background-image: url(/assets/images/arrow-right-long.svg);
 	background-repeat: no-repeat;
@@ -83,6 +84,16 @@
 }
 
 @media (max-width: 500px) {
+	.contact-form {
+		font-size: var(--text-subheader);
+	}
+	.contact-form select,
+	.contact-form input {
+		font-size: 1rem;
+		width: 60%;
+		padding-bottom: 0;
+	}
+	
 	.contact-title {
 		margin-top: var(--spacer-xl);
 		margin-bottom: var(--spacer-s);

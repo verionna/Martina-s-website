@@ -20,10 +20,9 @@
 	position: sticky;
 	top: 80px;
 	opacity: var(--home-title-opacity)
-
+	
 }
 
-}
 
 .home-subheader {
 	text-decoration: none;

@@ -1,9 +1,9 @@
 html {
 
   /*Font families*/
-  --font-1: 'Cinzel', serif;
-  --font-2: 'Cinzel Decorative', cursive;
-  --font-3: 'Quicksand', sans-serif;
+  --font-1: 'Patua One', cursive;
+  --font-2: 'Lora', serif;
+  --font-3: 'Arimo', sans-serif; 
 
   /* Escala aplicada */
   --text-caption: 14px;

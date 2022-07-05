@@ -3,34 +3,34 @@ html {
 	 /*Major*/
 	 /*Primary colors*/
 
-	--primary: #020659;
-	--secondary: #4B61A6;
-	--tertiary: #F2E3B3;
-	--quaternary: #D94848;
+	--primary: #4338ca;
+	--secondary: #991b1b;
+	--tertiary: #dc2626;
+	--quaternary: #fbbf24;
 
 	/*Grays*/
 	/*Secondary colors*/
 
-  	--grays-primary: #d3d5fe;
-  	--grays-secondary: #a1a5fd;
-  	--grays-tertiary: #2d36fa;
-  	--grays-quaternary: #010438;
+  	--grays-primary: #fff7ed;
+  	--grays-secondary: #ffedd5;
+  	--grays-tertiary: #fed7aa;
+  	--grays-quaternary: #fdba74;
 
   	/*Primary*/
   	/*Tertiary colors*/
 
-  	--primary-one: #effb3e;
-  	--primary-two:#590202;
-  	--primary-three:#ac0404;
-  	--primary-four:#010438;
+  	--primary-one: #fb923c;
+  	--primary-two:#f97316;
+  	--primary-three:#ea580c;
+  	--primary-four:#c2410c;
 
   	/*Accent*/
   	/*Quaternary colors*/
 
-  	--accent-primary: #C8A122;
-  	--accent-secondary: #d32c2c;
-  	--accent-tertiary: #9b2020;
-  	--accent-quaternary: #2a0909;
+  	--accent-primary: #9a3412;
+  	--accent-secondary: #7c2d12;
+  	--accent-tertiary: #92400e;
+  	--accent-quaternary: #78350f;
 
     --link: var(--accent-primary);
     --link-hover: var(--primary-three);

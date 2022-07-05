@@ -22,7 +22,7 @@ body {
 }
 
 body {
-   background-color: var(--tertiary);
+  background-color: var(--grays-primary);
   font-size: 100%;
 }
 
@@ -38,4 +38,8 @@ h6 {
 
 p {
   margin-top: 0;
+}
+
+div {
+  display: block;
 }
