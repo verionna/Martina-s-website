@@ -10,12 +10,12 @@ html {
   --text-base: 20px;
   --text-subheader: 24px;
   --text-title: 48px;
-  --text-headline: 50px;/*72px*/
+  --text-headline: 72px;/*72px*/
   --text-display: 96px;
   --text-jumbo: 144px;
 
 }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 900px) {
     html {
 
           /* Variables tipográficas */
@@ -24,7 +24,7 @@ html {
       --text-base: 16px;
       --text-subheader: 20px;
       --text-title: 24px;
-      --text-headline: 23px;/*36px*/
+      --text-headline: 36px;/*36px*/
       --text-display: 48px;
       --text-jumbo: 60px;
       
