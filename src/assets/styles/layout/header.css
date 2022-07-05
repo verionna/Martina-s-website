@@ -43,6 +43,27 @@ img.header-logo-light {
 	z-index: var(--z-index-navicon);
 }
 
+.hamburger:hover {
+  opacity: 1;
+}
+
+.hamburger-inner,
+.hamburger-inner::before,
+.hamburger-inner::after {
+  background-color: var(--primary);
+  height: 2px;
+  right: 0;
+  width: 40px;
+}
+
+.hamburger-inner {
+  width: 30px;
+}
+
+.hamburger-inner::after {
+  width: 20px;
+}
+
 .hamburger-inner, 
 .hamburger-inner::before, 
 .hamburger-inner::after {
@@ -60,10 +81,6 @@ img.header-logo-light {
 
 @media (max-width: 700px) {
 	.header-logo {
-		width: 70px;
-	}
-
-	.header-nav-icon {
-		width: 30px;
+	width: 70px;
 	}
 }
