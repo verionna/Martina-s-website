@@ -58,3 +58,8 @@ p {
   font-family: var(--font-2);
   font-weight: normal;
 }
+
+.font-3 {
+  font-family: var(--font-2);
+  font-weight: 800;
+}
