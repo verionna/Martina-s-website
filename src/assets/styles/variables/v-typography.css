@@ -1,9 +1,8 @@
 html {
 
   /*Font families*/
-  --font-1: 'Eczar', serif;
-  --font-2: 'Lora', serif;
-  --font-3: 'Arimo', sans-serif; 
+  --font-1: 'Abril Fatface', cursive;
+  --font-2: 'Raleway', sans-serif;
 
   /* Escala aplicada */
   --text-caption: 14px;
