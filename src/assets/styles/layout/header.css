@@ -30,7 +30,7 @@ img.header-logo-light {
 
 .header-logo {
 	position: relative;
-	width: 100px;
+	width: 60px;
 	z-index: var(--z-index-logo);
 }
 
