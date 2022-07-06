@@ -16,6 +16,7 @@
 }
 
 .home-title {
+  color: var(--accent-quaternary);
 	font-size: 10vw;
 	position: sticky;
 	top: 80px;
