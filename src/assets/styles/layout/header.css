@@ -50,7 +50,7 @@ img.header-logo-light {
 .hamburger-inner,
 .hamburger-inner::before,
 .hamburger-inner::after {
-  background-color: var(--primary);
+  background-color: var(--grays-quaternary);
   height: 2px;
   right: 0;
   width: 40px;
