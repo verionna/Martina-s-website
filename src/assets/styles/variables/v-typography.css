@@ -3,6 +3,7 @@ html {
   /*Font families*/
   --font-1: 'Abril Fatface', cursive;
   --font-2: 'Raleway', sans-serif;
+  --font-3: 'Righteous', cursive;
 
   /* Escala aplicada */
   --text-caption: 14px;
