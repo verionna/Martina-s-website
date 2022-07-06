@@ -47,7 +47,7 @@ img.header-logo-light {
   opacity: 1;
 }
 
-.hamburger-inner,
+/*.hamburger-inner,
 .hamburger-inner::before,
 .hamburger-inner::after {
   background-color: var(--primary);
@@ -62,7 +62,7 @@ img.header-logo-light {
 
 .hamburger-inner::after {
   width: 20px;
-}
+}*/
 
 .hamburger-inner, 
 .hamburger-inner::before, 
@@ -76,8 +76,6 @@ img.header-logo-light {
 .hamburger--elastic-r.is-active .hamburger-inner::after {
 	background-color: var(--accent-primary);
 }
-
-
 
 @media (max-width: 700px) {
 	.header-logo {
