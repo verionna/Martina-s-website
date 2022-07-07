@@ -3,13 +3,13 @@
 	padding-bottom: var(--spacer-m);
 	padding-top: var(--spacer-m);
 	text-align: center;
+  font-family:var(--font-3);
+  color: var(--accent-tertiary);
 }
 
 .footer a {
-	color: var(--accent-tertiary);
 	margin-left: 20px;
 	text-decoration: none;
-  font-family:var(--font-3);
 }
 
 .footer a:hover {
