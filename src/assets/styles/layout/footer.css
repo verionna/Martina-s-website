@@ -6,9 +6,10 @@
 }
 
 .footer a {
-	color: inherit;
+	color: var(--accent-tertiary);
 	margin-left: 20px;
 	text-decoration: none;
+  font-family:var(--font-3);
 }
 
 .footer a:hover {
