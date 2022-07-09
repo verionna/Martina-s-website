@@ -27,8 +27,8 @@
 	text-decoration: none;
 	color: inherit;
 	position: absolute;
-	bottom: 20px;
-	right: 50px;
+	bottom: auto;
+	right: auto;
 	font-size: var(--text-jumbo);
 	mix-blend-mode: hard-light;
 	transition: 0.3s all;
