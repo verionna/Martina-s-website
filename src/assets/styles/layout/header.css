@@ -50,8 +50,8 @@ img.header-logo-light {
 .hamburger-inner,
 .hamburger-inner::before,
 .hamburger-inner::after {
-  background-color: var(--grays-quaternary);
-  height: 2px;
+  background-color: var(--accent-tertiary);
+  height: 5px;
   right: 0;
   width: 40px;
 }
@@ -74,7 +74,7 @@ img.header-logo-light {
 .hamburger--elastic-r.is-active .hamburger-inner, 
 .hamburger--elastic-r.is-active .hamburger-inner::before, 
 .hamburger--elastic-r.is-active .hamburger-inner::after {
-	background-color: var(--accent-primary);
+	background-color: var(--secondary);
 }
 
 @media (max-width: 700px) {
