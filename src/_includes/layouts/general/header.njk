@@ -15,7 +15,7 @@
 </button>
 
     {% set navPages = collections.all | eleventyNavigation %}
-    <div class="nav">
+    <div class="nav font-3">
       {%- for element in navPages %}
         <a href="{{ element.url | url }}"
           class="text-headline" 
