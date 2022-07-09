@@ -1,15 +1,15 @@
 [ { "imagen": "home-1.jpg",
-    "position": "complete",
+    "href": "https://martinavazquez.netlify.app/ilustration/",
     "desc":"Illustrator"
   },
   {
     "imagen": "home-2.jpg",
-    "position": "complete",
+    "href": "https://martinavazquez.netlify.app/photo/",
      "desc":"Photograph"
   },
   {
     "imagen": "home-3.jpg",
-    "position": "complete",
+    "href": "https://martinavazquez.netlify.app/contact/",
      "desc":"Freelancer"
   }
 ]
