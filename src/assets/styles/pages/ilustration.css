@@ -3,6 +3,10 @@
 	height: min-content;
 	position: sticky;
 	top: 0;
+  color:var(--grays-quaternary);
+}
+p.font-4 {
+  color:var(--accent-primary);
 }
 
 .ilustration-text .text-headline {
