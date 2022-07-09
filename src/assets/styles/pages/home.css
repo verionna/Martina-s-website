@@ -16,11 +16,16 @@
 }
 
 .home-title {
-  color: var(--grays-quaternary);
+  color: var(--accent-tertiary);
 	font-size: 10vw;
 	position: sticky;
 	top: 80px;
 	opacity: var(--home-title-opacity);
+}
+
+.surname {
+  height: 270px;
+  color: var(--secondary);
 }
 
 .home-subheader {
