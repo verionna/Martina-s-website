@@ -21,12 +21,11 @@
 	position: sticky;
 	top: 80px;
 	opacity: var(--home-title-opacity);
-  height: 110px;
 }
 
 .surname {
   position: absolute;
-  top: 320px;
+  top: 315px;
   color: var(--secondary);
 }
 
@@ -34,7 +33,7 @@ h3.font-2.home-title.profession {
     font-size: var(--text-title);
     color: var(--tertiary);
     position: absolute;
-    top: 420px;
+    top: 490px;
 }
 .home-subheader {
 	text-decoration: none;
