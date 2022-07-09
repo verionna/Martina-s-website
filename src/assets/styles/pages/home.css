@@ -21,6 +21,7 @@
 	position: sticky;
 	top: 80px;
 	opacity: var(--home-title-opacity);
+  height: 110px;
 }
 
 .surname {
