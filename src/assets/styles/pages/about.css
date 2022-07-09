@@ -4,10 +4,12 @@
 
 .about-title .text-headline {
   line-height: 1;
+  color:var(--grays-quaternary);
 }
 
 .about-content {
   margin-top: 20vh;
+  color:var(--accent-primary);
 }
 
 .about-photo {
