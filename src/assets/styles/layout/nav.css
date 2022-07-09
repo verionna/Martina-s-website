@@ -4,7 +4,7 @@
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: var(--grays-tertiary);
+	background-color: var(--accent-tertiary);
 	color: var(--grays-primary);
 	display: flex;
 	flex-direction: column;
