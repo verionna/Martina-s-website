@@ -1,12 +1,15 @@
-[ {  "imagen": "home-1.jpg",
-    "position": "complete"
+[ { "imagen": "home-1.jpg",
+    "position": "complete",
+    "desc":"Illustrator"
   },
   {
     "imagen": "home-2.jpg",
-    "position": "complete"
+    "position": "complete",
+     "desc":"Photograph"
   },
   {
     "imagen": "home-3.jpg",
-    "position": "complete"
+    "position": "complete",
+     "desc":"Freelancer"
   }
 ]
