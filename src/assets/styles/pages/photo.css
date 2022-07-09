@@ -9,6 +9,7 @@
 	margin-top: var(--spacer-2xl);
 	margin-bottom: var(--spacer-2xl);
   text-align: center;
+  color:var(--grays-quaternary);
 }
 
 .photo-title .text-headline {
@@ -19,6 +20,7 @@
 	grid-column: span 6;
 	margin-top: var(--spacer-2xl);
 	margin-bottom: var(--spacer-2xl);
+  color:var(--accent-primary);
 }
 
 .photo-text p:last-child {
