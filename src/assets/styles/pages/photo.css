@@ -9,11 +9,11 @@
 	margin-top: var(--spacer-2xl);
 	margin-bottom: var(--spacer-2xl);
   text-align: center;
-  color:var(--grays-quaternary);
 }
 
 .photo-title .text-headline {
   line-height: 1;
+  color:var(--grays-quaternary);
 }
 
 .photo-text {
