@@ -30,7 +30,7 @@ img.header-logo-light {
 
 .header-logo {
 	position: relative;
-	width: 60px;
+	width: 40px;
 	z-index: var(--z-index-logo);
 }
 
@@ -77,8 +77,20 @@ img.header-logo-light {
 	background-color: var(--secondary);
 }
 
-@media (max-width: 700px) {
+@media (min-width: 500px) {
 	.header-logo {
-	width: 70px;
+	width: 60px;
+	}
+}
+
+@media (min-width: 900px) {
+	.header-logo {
+	width: 80px;
+	}
+}
+
+@media (min-width: 1400px) {
+	.header-logo {
+	width: 90px;
 	}
 }
