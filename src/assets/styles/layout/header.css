@@ -81,16 +81,25 @@ img.header-logo-light {
 	.header-logo {
 	width: 60px;
 	}
+	.header-logo-light {
+	width: 60px;
+	}
 }
 
 @media (min-width: 900px) {
 	.header-logo {
 	width: 80px;
 	}
+	.header-logo-light {
+	width: 80px;
+	}
 }
 
 @media (min-width: 1400px) {
 	.header-logo {
+	width: 90px;
+	}
+	.header-logo-light {
 	width: 90px;
 	}
 }
