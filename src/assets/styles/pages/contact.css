@@ -4,6 +4,7 @@
 
 .contact-title .text-headline {
 	line-height: 1;
+  color:var(--grays-quaternary);
 
 }
 
@@ -11,6 +12,7 @@
 	margin-top: 20vh;
 	font-size: 36px;
 	line-height: 1.8;
+  color:var(--accent-primary);
 }
 
 .contact-form input {
@@ -27,7 +29,7 @@
 }
 
 .contact-form input::placeholder {
-	color: var(--primary-three);
+	color: var(--secondary);
 }
 
 .contact-form select {
@@ -44,7 +46,7 @@
 	padding-right: 1em;
 	-webkit-appearance: none;
 	-moz-appearance: none;
-	background-image: url(/assets/images/angle-down.svg);
+	background-image: url(/assets/images/angleDown.svg);
 	background-repeat: no-repeat;
 	background-position: center right;
 	background-size: 0.75em auto;
@@ -61,7 +63,7 @@
 	padding: 0;
 	color: var(--tertiary);
 	background-color: transparent;
-	background-image: url(/assets/images/arrow-right-long.svg);
+	background-image: url(/assets/images/arrowRight.svg);
 	background-repeat: no-repeat;
 	background-position: top 0.2em right 0.2em;
 	padding-right: 1.35em;
