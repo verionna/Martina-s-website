@@ -33,7 +33,7 @@ h3.font-2.home-title.profession {
 }
 .home-subheader {
 	text-decoration: none;
-	color: var(--secondary);
+	color: var(--tertiary);
 	position: absolute;
 	bottom: auto;
 	right: auto;
