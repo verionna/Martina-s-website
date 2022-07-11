@@ -24,16 +24,12 @@
 }
 
 .surname {
-  position: absolute;
-  top: 315px;
   color: var(--secondary);
 }
 
 h3.font-2.home-title.profession {
     font-size: var(--text-title);
     color: var(--tertiary);
-    position: absolute;
-    top: 490px;
 }
 .home-subheader {
 	text-decoration: none;
