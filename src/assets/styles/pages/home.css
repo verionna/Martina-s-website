@@ -33,18 +33,18 @@ h3.font-2.home-title.profession {
 }
 .home-subheader {
 	text-decoration: none;
-	color: inherit;
+	color: var(--secondary);
 	position: absolute;
 	bottom: auto;
 	right: auto;
 	font-size: var(--text-jumbo);
-	mix-blend-mode: hard-light;
+	/*mix-blend-mode: hard-light;*/
 	transition: 0.3s all;
-
 }
 
 .home-subheader:hover {
 	opacity: 0.8;
+  color:white;
 } 
 
 .home-subheader-alt {
