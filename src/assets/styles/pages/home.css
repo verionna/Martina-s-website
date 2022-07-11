@@ -58,4 +58,10 @@ h3.font-2.home-title.profession {
     bottom: 0;
     font-size: var(--text-display);
   }
+	.home-title {
+	font-size: 17vw;
+	position: sticky;
+	top: 80px;
+  opacity: var(--home-title-opacity);
+  }
 }
