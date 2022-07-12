@@ -2,7 +2,7 @@
 html {
   --maxwidth: 1440px;
   --grid-main: repeat(12, minmax(0, 1fr));
-  --grid-gap: 20px;
+  --grid-gap: 30px;
   --container-padding: 20px;
 }
 /* Size: md */
