@@ -6,6 +6,8 @@
 	line-height: 1;
   color:var(--grays-quaternary);
   text-align: center;
+  margin-bottom: var(--spacer-2xl);
+	margin-top: var(--spacer-xl);
 }
 
 .contact-form {
@@ -104,6 +106,8 @@
 	.contact-title .text-headline {
 		line-height: 1.5;
     text-align: unset;
+    margin-bottom: 0;
+    margin-top: 0;
 	}
 
 	.contact-form {
