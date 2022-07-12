@@ -46,7 +46,7 @@
 
   .about-title .text-headline {
     line-height: 1.5;
-    text-align: center;
+    text-align: unset;
     margin-bottom: var(--spacer-2xl);}
     margin-top: var(--spacer-xl);
   }
