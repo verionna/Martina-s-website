@@ -47,7 +47,7 @@
   .about-title .text-headline {
     line-height: 1.5;
     text-align: unset;
-    margin-bottom: var(--spacer-2xl);}
-    margin-top: var(--spacer-xl);
+    margin-bottom: 0;
+    margin-top: 0;
   }
 }
