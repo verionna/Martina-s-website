@@ -23,7 +23,7 @@
 	letter-spacing: 0.05em;
 	line-height: 1.5;
 	vertical-align: 0.25em;
-	color: inherit;
+	color: var(--primary-three);
 	background-color: transparent;
 	border: 0;
 	border-bottom: 2px solid;
