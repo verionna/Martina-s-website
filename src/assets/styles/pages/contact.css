@@ -29,12 +29,12 @@
 }
 
 .contact-form input::placeholder {
-	color: var(--secondary);
+	color: var(--primary-three);
 }
 
 .contact-form select {
 	font-family: inherit;
-	color: inherit;
+	color: var(--primary-three);
 	font-size: 0.5em;
 	letter-spacing: 0.05em;
 	line-height: 1.5;
