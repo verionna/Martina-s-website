@@ -5,6 +5,9 @@
 .about-title .text-headline {
   line-height: 1;
   color:var(--grays-quaternary);
+  text-align: center;
+  margin-bottom: var(--spacer-2xl);
+  margin-top: var(--spacer-xl);  
 }
 
 .about-content {
@@ -43,5 +46,8 @@
 
   .about-title .text-headline {
     line-height: 1.5;
+    text-align: center;
+    margin-bottom: var(--spacer-2xl);}
+    margin-top: var(--spacer-xl);
   }
 }
