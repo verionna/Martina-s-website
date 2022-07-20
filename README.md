@@ -1,4 +1,4 @@
-# Marina's website 11ty
+# Martina's website 11ty
 
 A minimal 11ty starting point.
 
